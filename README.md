@@ -15,4 +15,4 @@ The most useful note taking app with groundbreaking features!
 
 # Installation
 
-Download fallenNotes by clicking the link: https://github.com/fallenistaken/fallenNotes/releases/latest
+Download fallenNotes by clicking the link: [https://github.com/fallenistaken/fallenNotes/releases/latest](https://github.com/fallenistaken/fallenNotes/releases/latest)
